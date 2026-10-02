@@ -13,9 +13,9 @@
         "clear": "docusaurus clear"
     },
     "dependencies": {
-        "@docusaurus/core": "^2.1.0",
-        "@docusaurus/plugin-client-redirects": "^2.1.0",
-        "@docusaurus/preset-classic": "^2.1.0",
+        "@docusaurus/core": "^3.10.2",
+        "@docusaurus/plugin-client-redirects": "^3.10.2",
+        "@docusaurus/preset-classic": "^3.10.2",
         "@headlessui/react": "^1.7.5",
         "@mdx-js/react": "^1.6.21",
         "@tailwindcss/line-clamp": "^0.4.2",
@@ -24,7 +24,7 @@
         "axios": "^0.24.0",
         "base64url": "^3.0.1",
         "clsx": "^1.1.1",
-        "docusaurus-plugin-copy": "^0.1.1",
+        "docusaurus-plugin-copy": "^0.2.1",
         "dotenv": "^16.0.2",
         "framer-motion": "^6.5.1",
         "postcss": "^8.4.16",
